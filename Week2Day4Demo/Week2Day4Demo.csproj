@@ -53,6 +53,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="documents\2022-01-06 - Session 1.pdf" />
+    <None Include="documents\Assignment1.pdf" />
     <None Include="documents\C# - Features.pdf" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
