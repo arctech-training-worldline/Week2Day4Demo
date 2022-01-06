@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using Week2Day4Demo.OperatorOverloading;
 
 namespace Week2Day4Demo
 {
@@ -15,7 +16,11 @@ namespace Week2Day4Demo
 
             //StructDemo.TestStruct();
             //EnumDemo.Test();
-            EnumDemo.TestEnumWithConsoleInput();
+            //EnumDemo.TestEnumWithConsoleInput();
+
+            //OperatorOverloadingDemo1.Test();
+            //EqualityDemo.Test();
+            EqualityDemo.Test2();
         }       
     }
 }

@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="ArrayDemo.cs" />
     <Compile Include="EnumDemo.cs" />
+    <Compile Include="OperatorOverloading\EqualityDemo.cs" />
+    <Compile Include="OperatorOverloading\OperatorOverloadingDemo1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructDemo.cs" />
