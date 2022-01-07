@@ -20,7 +20,9 @@ namespace Week2Day4Demo
 
             //OperatorOverloadingDemo1.Test();
             //EqualityDemo.Test();
-            EqualityDemo.Test2();
+            //EqualityDemo.Test2();
+
+            OperatorOverloadingRealLifeExample.Test();
         }       
     }
 }
